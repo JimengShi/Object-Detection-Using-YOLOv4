@@ -1,3 +1,9 @@
 *.137 filter=lfs diff=lfs merge=lfs -text
 weights/*.137 filter=lfs diff=lfs merge=lfs -text
 /weights/*.137 filter=lfs diff=lfs merge=lfs -text
+/data/cardboard/*.txt filter=lfs diff=lfs merge=lfs -text
+/data/cardboard/*.jpg filter=lfs diff=lfs merge=lfs -text
+/data/cardboard/*.png filter=lfs diff=lfs merge=lfs -text
+/data/paper/*.png filter=lfs diff=lfs merge=lfs -text
+/data/paper/*.jpg filter=lfs diff=lfs merge=lfs -text
+/data/paper/*.txt filter=lfs diff=lfs merge=lfs -text

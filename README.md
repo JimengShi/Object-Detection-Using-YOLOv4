@@ -1,5 +1,8 @@
 # Introduction
-The project is used to detect cardboard and paper with YOLO-v4 in google drive (Free GPU).
+The project is used to detect cardboard and paper with YOLO-v4 in google drive (Free GPU). Please check out the above `.ipynb` file step by step.
+
+# YOLO model: darknet
+git clone https://github.com/AlexeyAB/darknet
 
 
 ## Show effect

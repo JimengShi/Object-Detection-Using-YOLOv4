@@ -1,0 +1,82 @@
+data/my_data/cardboard/Jimeng_027.jpg
+data/my_data/cardboard/pic_398.jpg
+data/my_data/paper/newsprintgoogle_755.jpg
+data/my_data/cardboard/pic_449.jpg
+data/my_data/paper/IMG_2731.jpg
+data/my_data/paper/download (6).jpg
+data/my_data/paper/newsprintgoogle_034.jpg
+data/my_data/paper/IMG_2748.jpg
+data/my_data/paper/download (3).jpg
+data/my_data/cardboard/pic_495.jpg
+data/my_data/paper/download (7).jpg
+data/my_data/cardboard/pic_152.jpg
+data/my_data/paper/images (9).jpg
+data/my_data/paper/newsprintgoogle_109.jpg
+data/my_data/paper/newsprintbing_786.jpg
+data/my_data/cardboard/Jimeng_042.jpg
+data/my_data/paper/newsprintbing_852.jpg
+data/my_data/paper/newsprintbing_014.jpg
+data/my_data/paper/images (7).jpg
+data/my_data/paper/newsprintbing_246.jpg
+data/my_data/cardboard/pic_570.jpg
+data/my_data/paper/IMG_6366.jpg
+data/my_data/cardboard/pic_543.jpg
+data/my_data/cardboard/pic_565.jpg
+data/my_data/paper/IMG_6376.jpg
+data/my_data/cardboard/pic_506.jpg
+data/my_data/paper/newsprintgoogle_245.jpg
+data/my_data/cardboard/pic_587.jpg
+data/my_data/paper/newsprintgoogle_016.jpg
+data/my_data/cardboard/Jimeng_049.jpg
+data/my_data/paper/newsprintbing_112.jpg
+data/my_data/paper/newsprintbing_001.jpg
+data/my_data/cardboard/Jimeng_009.jpg
+data/my_data/cardboard/pic_569.jpg
+data/my_data/cardboard/pic_280.jpg
+data/my_data/cardboard/pic_264.jpg
+data/my_data/cardboard/Jimeng_046.jpg
+data/my_data/paper/newsprintbing_541.jpg
+data/my_data/paper/newsprintbing_149.jpg
+data/my_data/cardboard/pic_300.jpg
+data/my_data/paper/newsprintbing_198.jpg
+data/my_data/cardboard/pic_447.jpg
+data/my_data/cardboard/pic_483.jpg
+data/my_data/paper/newsprintbing_170.jpg
+data/my_data/cardboard/Jimeng_036.jpg
+data/my_data/paper/IMG_6368.jpg
+data/my_data/cardboard/pic_395.jpg
+data/my_data/cardboard/pic_591.jpg
+data/my_data/paper/images (3).jpg
+data/my_data/paper/newsprintgoogle_103.jpg
+data/my_data/cardboard/pic_106.jpg
+data/my_data/paper/IMG_2739.jpg
+data/my_data/paper/newsprintbing_408.jpg
+data/my_data/cardboard/pic_320.jpg
+data/my_data/cardboard/pic_326.jpg
+data/my_data/cardboard/Jimeng_048.jpg
+data/my_data/paper/IMG_2736.jpg
+data/my_data/paper/IMG_2742.jpg
+data/my_data/cardboard/pic_163.jpg
+data/my_data/paper/newsprintbing_103.jpg
+data/my_data/paper/images (5).jpg
+data/my_data/cardboard/pic_082.jpg
+data/my_data/cardboard/pic_442.jpg
+data/my_data/paper/newsprintbing_148 (2).jpg
+data/my_data/cardboard/pic_067.jpg
+data/my_data/paper/newsprintbing_038.jpg
+data/my_data/paper/newsprintbing_173.jpg
+data/my_data/cardboard/pic_210.jpg
+data/my_data/paper/newsprintgoogle_145.jpg
+data/my_data/cardboard/pic_274.jpg
+data/my_data/cardboard/pic_198.jpg
+data/my_data/paper/IMG_4065.jpg
+data/my_data/paper/newsprintbing_108 (2).jpg
+data/my_data/cardboard/Jimeng_008.jpg
+data/my_data/cardboard/pic_091.jpg
+data/my_data/cardboard/pic_124.jpg
+data/my_data/paper/newsprintgoogle_342.jpg
+data/my_data/paper/IMG_6379.jpg
+data/my_data/cardboard/pic_252.jpg
+data/my_data/cardboard/pic_096.jpg
+data/my_data/paper/newsprintgoogle_268.jpg
+data/my_data/cardboard/pic_205.jpg
